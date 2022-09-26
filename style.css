@@ -1,0 +1,25 @@
+.titulos {
+    color: coral;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.textos {
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: coral;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    margin: 4px;
+    padding: 2px;
+}
+
+body {
+    background-color: rgb(252, 238, 232);
+}
